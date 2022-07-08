@@ -1,1 +1,7 @@
 theme: jekyll-theme-hacker
+title: yyds's Blog
+url: "https://yydsblog.github.io"
+baseurl: ""
+
+-timezone: Asia/Shanghai
+description: yao 的随手记
