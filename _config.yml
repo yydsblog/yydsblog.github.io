@@ -1,7 +1,7 @@
 theme: jekyll-theme-hacker
-title: rm -rf
+title: yyds's Blog
 url: "https://yydsblog.github.io"
 baseurl: ""
 
 -timezone: Asia/Shanghai
-description: system error
+description: rm -rf /*
